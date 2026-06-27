@@ -1,8 +1,8 @@
-# -AI React Studio
+# AI React Studio
 
 **Developed by Devanshu Dudhia**
 
-**-AI React Studio** is an AI-powered React UI generation platform that transforms **text prompts**, **screenshots**, and **Figma designs** into clean, production-ready React applications. Powered by **Claude on Amazon Bedrock**, it supports conversational UI refinement, enabling developers to iteratively generate, modify, and enhance interfaces with natural language. The project is fully **Dockerized** for seamless local development and deployment.
+**AI React Studio** is an AI-powered React UI generation platform that transforms **text prompts**, **screenshots**, and **Figma designs** into clean, production-ready React applications. Powered by **Claude on Amazon Bedrock**, it supports conversational UI refinement, enabling developers to iteratively generate, modify, and enhance interfaces with natural language. The project is fully **Dockerized** for seamless local development and deployment.
 
 ### ✨ Features
 
